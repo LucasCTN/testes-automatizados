@@ -1,0 +1,6 @@
+@endereco=http://localhost:3000
+
+
+#########
+
+GET {{endereco}}/professor/salas
