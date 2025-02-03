@@ -1,3 +1,8 @@
-Comando:
+Executar servidor:
 
-`npx ts-node src/index.ts`
+`npm run dev`
+
+
+Testar:
+
+`npm run test`
